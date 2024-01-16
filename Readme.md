@@ -29,29 +29,48 @@ The portfolio is designed to provide an overview of my skills, experience, and p
 - **Projects:** Showcase of my recent projects.
 - **Contact Me:** Ways to get in touch with me.
 
+- ![Portfolio Screenshot](https://github.com/Rajmathur-8/my-portfolio/assets/118900514/e40b5ea7-af18-48c3-a0af-f0e51a093814)
+
 ## Skills
 
 The Skills section highlights my proficiency in various programming languages and technologies, including HTML, CSS, JavaScript, Java, C++, Python, and more.
+
+![Portfolio Screenshot](https://github.com/Rajmathur-8/my-portfolio/assets/118900514/f865eb36-bd32-4c62-a02b-469aa61243c4)
+
 
 ## Qualification
 
 The Qualification section outlines my educational background, including my current pursuit of a Bachelor of Technology in Computer Science and Engineering.
 
+![Portfolio Screenshot](https://github.com/Rajmathur-8/my-portfolio/assets/118900514/c86931ad-bc4a-40ac-94f7-0999257d9024)
+
+
 ## Services
 
 I offer frontend development services, specializing in projects using HTML, CSS, and JavaScript.
+
+
 
 ## Projects
 
 Explore my recent works, including projects such as a To-Do List, Login Form, Website Landing Page, and Flipping Card.
 
+![Portfolio Screenshot](https://github.com/Rajmathur-8/my-portfolio/assets/118900514/c21832d0-b771-4fc8-8c12-c6884a238e78)
+
+
 ## Contact Me
 
 Feel free to reach out to me for inquiries, collaborations, or just to say hello. Contact information and a form for project discussions are provided.
 
+![Portfolio Screenshot](https://github.com/Rajmathur-8/my-portfolio/assets/118900514/0d2dd7f8-999d-4c47-b739-816d87c6b497)
+
+
 ## Footer
 
 Connect with me on social media platforms - LinkedIn, GitHub, and Twitter. The footer also includes a copyright notice.
+
+![Portfolio Screenshot](https://github.com/Rajmathur-8/my-portfolio/assets/118900514/9f759a1f-dddf-422a-8606-c455e22307a7)
+
 
 ## JavaScript Code
 
